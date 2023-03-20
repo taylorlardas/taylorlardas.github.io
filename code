@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Partnerships.com - Partner With Us!</title>
+    <style>
+      /* Basic CSS styling */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+        margin: 0;
+        padding: 0;
+      }
+      
+      /* Header styling */
+      header {
+        background-color: #ffffff;
+        padding: 20px;
+        text-align: center;
+      }
+      
+      h1 {
+        font-size: 48px;
+        margin-top: 0;
+      }
+      
+      /* Main content styling */
+      .content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 50px 20px;
+        text-align: center;
+      }
+      
+      p {
+        font-size: 18px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+      }
+      
+      button {
+        background-color: #008CBA;
+        border: none;
+        color: #ffffff;
+        font-size: 24px;
+        padding: 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+      
+      button:hover {
+        background-color: #005F6B;
+      }
+      
+      /* Footer styling */
+      footer {
+        background-color: #333333;
+        color: #ffffff;
+        padding: 20px;
+        text-align: center;
+      }
+      
+      footer p {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header section -->
+    <header>
+      <h1>Partner With Us!</h1>
+    </header>
+    
+    <!-- Main content section -->
+    <div class="content">
+      <p>Are you interested in partnering with us to bring your business to the next level? We're always looking for new partners and collaborators to join our network.</p>
+      <button>Contact Us</button>
+    </div>
+    
+    <!-- Footer section -->
+    <footer>
+      <p>&copy; 2023 Partnerships.com</p>
+    </footer>
+  </body>
+</html>
